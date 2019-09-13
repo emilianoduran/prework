@@ -1,0 +1,17 @@
+{
+  "name": "github-examples",
+  "version": "1.0.0",
+  "description": "Ejercicios en la terminal curso de Prework platzi ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "Platzi",
+    "terminal",
+    "curso",
+    "escuelajs"
+  ],
+  "author": "@emilianodurancito",
+  "license": "ISC"
+}
